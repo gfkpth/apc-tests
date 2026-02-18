@@ -1,0 +1,238 @@
+﻿example,APC,instance,condition
+Ich Deutscher bin seit Jahren aktiv in diesem Verein zur Kleingartenpflege.,ich Deutscher,1,apc-subj-1-sg-nomod
+Ich Mensch bin heute früh mit dem Bus angekommen.,ich Mensch,1,apc-subj-1-sg-nomod
+Ich sportliches Kind schwimme seit Jahren in diesem Verein.,ich ehrliches Kind,1,apc-subj-1-sg-adj
+"Ich glücklicher Mann bin gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",ich glücklicher Mann,1,apc-subj-1-sg-adj
+Ich Bahnfahrerin aus Rostock bin seit Jahren aktiv in diesem Verkehrsverein.,ich Bahnfahrerin aus Rostock,1,apc-subj-1-sg-postnom
+"Ich Klempner aus der Nachbarschaft bin gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",ich Klempner aus der Nachbarschaft,1,apc-subj-1-sg-postnom
+Ich wundersamer Mensch vom Land habe etwas andere Ansichten als die Leute aus der Stadt.,ich wundersamer Mensch vom Land,1,apc-subj-1-sg-adj+postnom
+Ich ehrlicher Sozialdemokrat aus dem Norden bin seit Jahren aktiv in diesem Verein.,ich ehrlicher Sozialdemokrat aus dem Norden,1,apc-subj-1-sg-adj+postnom
+Wir Juden kennen das Problem schon seit Jahren.,wir Juden,1,apc-subj-1-pl-nomod
+Wir Geschwister sind heute früh mit dem Bus angekommen.,wir Geschwister,1,apc-subj-1-pl-nomod
+Wir fleißigen Europäer arbeiten aktiv an diesem Projekt.,wir fleißigen Europäer,1,apc-subj-1-pl-adj
+Wir müde Aktivistinnen sind seit Jahren aktiv in diesem Verein.,wir müde Aktivistinnen,1,apc-subj-1-pl-adj
+"Wir Leute des Nordens sind gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",wir Leute des Nordens,1,apc-subj-1-pl-postnom
+"Wir Soldaten aus Berlin sind gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",wir Soldaten aus Berlin,1,apc-subj-1-pl-postnom
+"Wir glückliche Mädchen des Nordens sind gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",wir glückliche Mädchen des Nordens,1,apc-subj-1-pl-adj+postnom
+Wir gebeutelte Arme vom Land sind heute früh mit dem Bus angekommen.,wir gebeutelte Arme vom Land,1,apc-subj-1-pl-adj+postnom
+"Du Narr bist gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",du Narr,1,apc-subj-2-sg-nomod
+"Du Junger bist gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",du Junger,1,apc-subj-2-sg-nomod
+Du freundlicher Amerikaner bist heute früh mit dem Bus angekommen.,du freundlicher Amerikaner,1,apc-subj-2-sg-adj
+Du armer Kommunist bist seit Jahren aktiv in diesem Verein.,du armer Kommunist,1,apc-subj-2-sg-adj
+Du Rocker aus Rostock bist seit Jahren aktiv in diesem Verein.,du Rocker aus Rostock,1,apc-subj-2-sg-postnom
+Du Erwachsener aus Rostock bist seit Jahren aktiv in diesem Verein.,du Erwachsener aus Rostock,1,apc-subj-2-sg-postnom
+Du bedauernswerter Idiot aus der Region bist heute früh mit dem Bus angekommen.,du kluger Idiot aus der Region,1,apc-subj-2-sg-adj+postnom
+Du tapferer Kerl aus der Nachbarschaft bist seit Jahren aktiv in diesem Verein.,du tapferer Kerl aus der Nachbarschaft,1,apc-subj-2-sg-adj+postnom
+Solche Probleme kennt ihr Christen besonders aus historischer Perspektive.,ihr Christen,1,apc-subj-2-pl-nomod
+Ihr Mädchen kennt diese Probleme schon seit langem.,ihr Mädchen,1,apc-subj-2-pl-nomod
+Ihr klugen Ärzte habt eine gute Lösung des Problems gefunden.,ihr klugen Ärzte,1,apc-subj-2-pl-adj
+Ihr kluge Verteidiger seid heute früh mit dem Bus angekommen.,ihr klugen Verteidiger,1,apc-subj-2-pl-adj
+"Gestern seid ihr Lumpen aus Berlin im Park spazieren gegangen, obwohl das Wetter schlecht war.",ihr Lumpen aus Berlin,1,apc-subj-2-pl-postnom
+"Ihr Schüler aus der Nachbarschaft seid gestern im Park spazieren gegangen, obwohl das Wetter schlecht war.",ihr Schüler aus der Nachbarschaft,1,apc-subj-2-pl-postnom
+"Ihr armen Trottel aus Rostock habt noch keine Ahnung, was hier passiert.",ihr armen Trottel aus Rostock,1,apc-subj-2-pl-adj+postnom
+"Ihr intriganten Kinder des Satans werdet noch sehen, wohin euch das führt!",ihr intriganten Kinder,1,apc-subj-2-pl-adj+postnom
+Sie Linguistin wissen doch sicher um die Herausforderungen einer fairen Sprachpolitik.,Sie Linguistin,1,apc-subj-2Hon-sg-nomod
+Sie Österreicher sind wohl den Piefkes nicht so wohlgesinnt?,Sie Österreicher,1,apc-subj-2Hon-sg-nomod
+"Sie naiver Esel verstehen gar nicht, wie übel man Ihnen mitspielt.",Sie naiver Esel,1,apc-subj-2Hon-sg-adj
+Die Situation Ihrer Klasse haben Sie kluger Arbeiter schon lange verstanden.,Sie kluger Arbeiter,1,apc-subj-2Hon-sg-adj
+Sie Student aus Berlin sind doch sicher vertraut mit den dortigen Gepflogenheiten.,Sie Student aus Berlin,1,apc-subj-2Hon-sg-postnom
+"Sie Aas aus der Großstadt haben wohl überhaupt kein Verständnis für die Herausforderungen, mit denen wir auf dem Land zu tun haben?",Sie Aas aus der Großstadt,1,apc-subj-2Hon-sg-postnom
+Die hauptstädtischen Gepflogenheiten werden Sie ehrbarer Bruder aus Berlin noch zu Genüge kennen lernen.,Sie ehrbarer Bruder aus Berlin,1,apc-subj-2Hon-sg-adj+postnom
+"Obwohl das Wetter schlecht war, sind Sie schlauer Sünder aus Rostock sind gestern im Park spazieren gegangen.",Sie schlauer Sünder aus Rostock,1,apc-subj-2Hon-sg-adj+postnom
+Sie Französinnen verstehen doch einiges vom Fußball.,Sie Franzosen,1,apc-subj-2Hon-pl-nomod
+"Sie Ochsen werden noch sehen, was Sie von Ihrem Verhalten haben.",Sie Ochsen,1,apc-subj-2Hon-pl-nomod
+Sie vermaledeiten Schufte halten uns seit Jahren zum Narren.,Sie vermaledeiten Schufte,1,apc-subj-2Hon-pl-adj
+Sie müde Provinzler sind heute früh mit dem Bus angekommen.,Sie müde Provinzler,1,apc-subj-2Hon-pl-adj
+Sie Künstler aus Berlin haben eine sehr spezifische Sicht der Dinge.,Sie Künstler aus Berlin,1,apc-subj-2Hon-pl-postnom
+Sie Sozialisten aus der Provinz haben ein unvollständiges Bild der Lage.,Sie Sozialisten aus der Provinz,1,apc-subj-2Hon-pl-postnom
+Sie freundliche Repräsentanten des Nordens sind doch heute früh erst mit dem Bus angekommen.,Sie freundliche Repräsentaten des Nordens,1,apc-subj-2Hon-pl-adj+postnom
+"Sie neugierige Männer aus der Nachbarschaft wollen mir erzählen, dass Sie davon nichts gehört haben?",Sie neugierige Männer aus der Nachbarschaft,1,apc-subj-2Hon-pl-adj+postnom
+Viele Leute sahen mich Pazifisten als Vorbild in der Gemeinde.,mich Pazifisten,1,apc-obj-1-sg-nomod
+"Die Jury lobte mich Lausbub in ihrer Ansprache, weil ich mir offenbar viel Mühe gegeben hatte.",mich Lausbub,1,apc-obj-1-sg-nomod
+"Die Jury lobte mich tapfere Hausfrau in ihrer Ansprache, weil ich mich besonders engagiert hatte.",mich tapfere Hausfrau,1,apc-obj-1-sg-adj
+"Man erwähnte mich unscheinbaren Zögling mehrfach während der Diskussion, was viele überrascht hat.",mich unscheinbaren Zögling,1,apc-obj-1-sg-adj
+Viele Leute sahen mich Polen aus Berlin als Vorbild in der Gemeinde.,mich Polen aus Berlin,1,apc-obj-1-sg-postnom
+"Man erwähnte mich Knaben vom Land mehrfach während der Diskussion, was einige überrascht hat.",mich Knaben vom Land,1,apc-obj-1-sg-postnom
+"Die Jury lobte mich gewieften Teufel aus Weilheim in ihrer Ansprache, weil ich mich besonders engagiert hatte.",mich gewieften Teufel aus Weilheim,1,apc-obj-1-sg-adj+postnom
+Viele Leute sahen mich glücklichen Sowjetmenschen des Ostens als Vorbild in der Gemeinde.,mich glücklichen Ding des Nordens,1,apc-obj-1-sg-adj+postnom
+"Die Vorsitzende lobte uns Tiere in ihrer Ansprache, weil wir angesichts der Gefahr über uns hinaus gewachsen waren.",uns Tier,1,apc-obj-1-pl-nomod
+"Man erwähnte uns Revolutionäre mehrfach während der Diskussion, was mich überrascht hat.",uns Revolutionäre,1,apc-obj-1-pl-nomod
+Wenige Leute sahen uns tapfere Lümmel als Vorbilder in der Gemeinde.,uns tapfere Dummkopfen,1,apc-obj-1-pl-adj
+"Das Schwein lobte uns schlaue Kamele in seiner Ansprache, weil wir uns besonders gut für die neue Ordnung eingesetzt hatten.",uns schlaue Kamele,1,apc-obj-1-pl-adj
+Viele Leute sahen uns Herren aus Rostock als Vorbilder in der Gemeinde.,uns Herren aus Rostock,1,apc-obj-1-pl-postnom
+"Die Jury lobte uns Professoren aus Madrid in ihrer Ansprache, weil wir uns ganz besonders engagiert hatten.",uns Professoren aus Rostock,1,apc-obj-1-pl-postnom
+"Die Jury lobte uns müde Hausfrauen vom Land in ihrer Ansprache, weil wir die Hauptarbeit übernommen hatten.",uns müde Hausfrauen vom Land,1,apc-obj-1-pl-adj+postnom
+Viele Leute sahen uns fleißige Luder aus der Nachbarschaft als Aussätzige der Gemeinde.,uns fleißige Luder aus der Nachbarschaft,1,apc-obj-1-pl-adj+postnom
+"Die Jury lobte dich Fremden in ihrer Ansprache, weil sie von deiner Ausdauer beeindruckt waren.",dich Fremden,1,apc-obj-2-sg-nomod
+"Die Jury hat dich Langschläfer in ihrer Ansprache gelobt, aber du hast das natürlich verpasst.",dich Langschläfer,1,apc-obj-2-sg-nomod
+"Man erwähnte dich naives Schaf mehrfach während der Diskussion, was überrascht hat.",dich naives Schaf,1,apc-obj-2-sg-adj
+"Die Jury lobte dich fleißigen Schriftsteller in ihrer Ansprache, weil du so eine beeindruckende Zahl von Büchern geschrieben hattest.",dich fleißigen Schriftsteller,1,apc-obj-2-sg-adj
+"Die Jury lobte dich Demokrat aus Berlin in ihrer Ansprache, weil du dich besonders engagiert hattest.",dich Demokrat aus Berlin,1,apc-obj-2-sg-postnom
+"Wenn ich dich Wald meiner Jugend durchstreife, jauchzt mein Herz.",dich Wald meiner Jugend,1,apc-obj-2-sg-postnom
+Viele Leute sahen dich freundlichen Bauer aus der Nachbarschaft als Vorbild in der Gemeinde.,dich freundlichen Bauer aus der Nachbarschaft,1,apc-obj-2-sg-adj+postnom
+"Dich naiven Sterblichen vom Land haben wir schon lange beobachtet, weil wir in dir ein unentdecktes Potenzial vermuten.",dich naiven Sterblichen vom Land,1,apc-obj-2-sg-adj+postnom
+"Man erwähnte euch Tölpel mehrfach während der Diskussion, was mich überrascht hat.",euch Tölpel,1,apc-obj-2-pl-nomod
+Viele Leute sahen euch Sportler als Vorbilder in der Gemeinde.,euch Sportler,1,apc-obj-2-pl-nomod
+Euch müde Schriftsteller wollte ich auch noch kurz besuchen.,euch müde Schriftsteller,1,apc-obj-2-pl-adj
+"Die Jury lobte euch kluge Offiziere in ihrer Ansprache, weil sie sich besonders engagiert hatten.",euch kluge Offiziere,1,apc-obj-2-pl-adj
+Viele Leute sahen euch Rednerinnen aus Rostock als Vorbilder in der Gemeinde.,euch Rednerinnen aus Rostock,1,apc-obj-2-pl-postnom
+"Die Jury lobte euch Dozentinnen der Humanwissenschaftlichen Fakultät in ihrer Ansprache, weil das Problem ohne eure Hilfe nie so schnell hätte gelöst werden können.",euch Bayer des Nordens,1,apc-obj-2-pl-postnom
+"Tatsächlich lobte auch die Präsidentin euch freundliche Mädel aus der Nachbarschaft in ihrer Ansprache, nachdem ihr euch so viel Mühe gegeben habt.",euch freundliche Mädel aus der Nachbarschaft,1,apc-obj-2-pl-adj+postnom
+"Man erwähnte euch arme Schlingel aus Berlin mehrfach während der Diskussion, was überrascht hat.",euch arme Schlingel aus Berlin,1,apc-obj-2-pl-adj+postnom
+"Man erwähnte Sie Dummkopf mehrfach während der Diskussion, was überrascht hat.",Sie Dummkopf,1,apc-obj-2Hon-sg-nomod
+"Die Jury lobte Sie Demokratin in ihrer Ansprache, weil Sie sich nicht unterbekommen lassen.",Sie Demokratin,1,apc-obj-2Hon-sg-nomod
+"Die Jury lobte Sie arme Mutter in ihrer Ansprache, weil sie sich besonders engagiert hatten.",Sie arme Mutter,1,apc-obj-2Hon-sg-adj
+"Man erwähnte Sie freundlichen Lehrerin mehrfach während der Diskussion, was überrascht hat.",Sie freundliche Lehrerin,1,apc-obj-2Hon-sg-adj
+"Die Jury lobte Sie Kenner des Nordens in ihrer Ansprache, weil Ihre Arbeit unser Wissen ganz ungemein bereichert hat.",Sie Kenner des Nordens,1,apc-obj-2Hon-sg-postnom
+"Die Jury lobte Sie Lausbub vom Land in ihrer Ansprache, weil sie von Ihrem Einfallsreichtum beeindruckt war.",Sie Lausbub vom Land,1,apc-obj-2Hon-sg-postnom
+Viele Leute sahen Sie schlaue Verwalterin der Getreidevorräte als Vorbild in der Gemeinde.,Sie schlaue Verwalterin der Getreidevorräte,1,apc-obj-2Hon-sg-adj+postnom
+"Die Jury lobte Sie ehrlichen Geist des Nordens in ihrer Ansprache, weil Sie sich besonders für Verständigung engagiert hatten.",Sie ehrlichen Geist des Nordens,1,apc-obj-2Hon-sg-adj+postnom
+Die Richterin wird Sie Wächter natürlich als besonders glaubwürdige Zeugen werten.,Sie Wächter,1,apc-obj-2Hon-pl-nomod
+"Man erwähnte Sie Tieftaucherinnen mehrfach während der Diskussion, was überrascht hat.",Sie Tieftaucherinnen,1,apc-obj-2Hon-pl-nomod
+Viele Leute sahen Sie tapfere Suffragetten als Vorbilder in der Gemeinde.,Sie tapfere Suffragetten,1,apc-obj-2Hon-pl-adj
+"Die Leute haben Sie freundliche Burschen besonders geschätzt, weil die meisten Menschen heutzutage so mürrisch sind.",Sie freundliche Burschen,1,apc-obj-2Hon-pl-adj
+Viele Leute sahen Sie Hüter der geheimen Künste als Vorbilder in der Gemeinde.,Sie Hüter der geheimen Künste ,1,apc-obj-2Hon-pl-postnom
+"Wir schätzen Sie Leser aus den entfernten Provinzen besonders, weil uns die Interaktion mit allen Bereichen des Imperiums wichtig ist.",Sie Leser aus den entfernten Provinzen,1,apc-obj-2Hon-pl-postnom
+"Ich kann Sie verärgerte Menschen aus Ithaki gut verstehen, nachdem hier alles so schief gelaufen ist.",Sie verärgerte Menschen aus Ithaki,1,apc-obj-2Hon-pl-adj+postnom
+"Man erwähnte Sie kluge Spanier aus Cordoba mehrfach während der Diskussion, was überrascht hat.",Sie kluge Spanier aus Cordoba,1,apc-obj-2Hon-pl-adj+postnom
+"Mit mir Dichter hat der Sprecher ausführlich gesprochen, bevor er die Sitzung schloss.",mir Dichter,1,apc-PP-1-sg-nomod
+"Bevor er die Sitzung schloss, sprach der Redner ausführlich über mich Sonderling.",mich Sonderling,1,apc-PP-1-sg-nomod
+"Die Daten zeigten ein für mich spezialisierten Experten interessantes Muster, das weitere Untersuchungen rechtfertigt.",mich spezialisierten Experten,1,apc-PP-1-sg-adj
+"Mit mir leidenschaftlichem Pazifist hat der Sprecher ausführlich gesprochen, bevor er die Sitzung schloss.",mir leidenschaftlichem Pazifist,1,apc-PP-1-sg-adj
+"Vor mir Genossen aus dem Politbüro wollte niemand das Risiko eingehen, sich zu blamieren.",mir Genossen aus dem Politbüro,1,apc-PP-1-sg-postnom
+"An mir Rekruten aus Rostock zeigte der Feldwebel ein besonderes Interesse, vielleicht weil seine Familie von dort stammte.",mir Rekruten aus Rostock,1,apc-PP-1-sg-postnom
+Mit mir passioniertem Bahnfahrer aus Berlin auf ihrer Seite hatte die Gruppe keinen Zweifel mehr an ihrem sicheren Sieg beim Quiz.,mir passioniertem Bahnfahrer aus Berlin,1,apc-PP-1-sg-adj+postnom
+Aufgrund seiner persönlichen Abneigung gegen mich unrasierten Proleten aus dem Armenviertel schien der Staatsanwalt einen besonderen Eifer an den Tag zu legen.,mich unrasierten Proleten aus dem Armenviertel,1,apc-PP-1-sg-adj+postnom
+"Bei uns Physikstudis zeigten die Daten ein interessantes Muster, das weiter untersucht wird.",uns Physikstudis,1,apc-PP-1-pl-nomod
+Für uns Medizinstudentinnen war dieses Praktikum die aufregendste Hürde.,uns Medizinstudentinnen,1,apc-PP-1-pl-nomod
+"Von uns angehenden Technikerinnen und Technikern wollte niemand das Risiko eingehen, das Projekt allein zu stemmen.",uns angehenden Technikerinnen und Technikern,1,apc-PP-1-pl-adj
+"Gegen uns ehrliche Nicaraguaner wollte niemand das Risiko eingehen, eine Falschaussage zu tätigen.",uns ehrliche Nicaraguaner,1,apc-PP-1-pl-adj
+"Mit uns Kindern der Gewalt hat die Forscherin ausführlich gesprochen, als sie ihr Buch vorbereitete.",uns Kindern der Gewalt,1,apc-PP-1-pl-postnom
+"Von uns Jünglingen aus der Region wollte niemand das Risiko eingehen, das Projekt allein zu stemmen.",uns Jünglingen aus der Region,1,apc-PP-1-pl-postnom
+"Gegen uns angebliche Verwalter des Verfalls hat der Sprecher ausführlich gesprochen, bevor er die Sitzung schloss.",uns angebliche Verwalter des Verfalls,1,apc-PP-1-pl-adj+postnom
+Ohne uns arme Briten vom Land wird sich auch in den nächsten Jahren nichts an der Misere verbessern.,uns arme Briten vom Land,1,apc-PP-1-pl-adj+postnom
+"Mit dir Faulpelz wollte niemand das Risiko eingehen, das Projekt allein zu stemmen.",dir Faulpelz,1,apc-PP-2-sg-nomod
+"Für dich Rabauken ist dieser ganze Schlamassel nur ein großes Abenteuer, was?",dich Rabauken Engel,1,apc-PP-2-sg-nomod
+"Gegen dich schlaue Schöne wollte niemand das Risiko eingehen, die Stimme zu erheben.",dich schlaue Schöne,1,apc-PP-2-sg-adj
+Für dich großen Angeber könnte sich die Situation noch ziemlich ungemütlich entwickeln.,dich großen Angeber,1,apc-PP-2-sg-adj
+Für dich Geflüchtete aus dieser Region werden diese Nachrichten wahrscheinlich nochmal ein ganz besonderes Gewicht haben.,dich Geflüchtete aus dieser Region,1,apc-PP-2-sg-postnom
+"Mit dir Verliebter auf Wolke 7 wollte niemand das Risiko eingehen, in Streit zu geraten.",dir Verliebter auf Wolke 7,1,apc-PP-2-sg-postnom
+"Dank dir zuverlässigem Buchhalter aus der Nachbarschaft hatte ich niemals Sorge, dass wir den Überblick verlieren würde.",dir zuverlässigem Buchhalter aus der Nachbarschaft,1,apc-PP-2-sg-adj+postnom
+Mit dir bekannter Schriftstellerin vom Land hätten alle angehenden literarische Tätigen gern kollaboriert.,dir bekannter Schriftstellerin vom Land,1,apc-PP-2-sg-adj+postnom
+Für euch Suchende sind tiefe Gedanken über die Natur des Seins fester Bestandteil des Lebens.,euch Suchenden,1,apc-PP-2-pl-nomod
+Gegen euch Angeklagte habe ich prinzipiell erstmal nichts.,euch Angeklagte,1,apc-PP-2-pl-nomod
+"Zu euch glückliche Siegerinnen hat der Sprecher ausführlich gesprochen, bevor er die Sitzung schloss.",euch glückliche Siegerinnen,1,apc-PP-2-pl-adj
+Gegen euch naive Träumende ist meine eigene Verblendung ja gar nichts.,euch naive Träumende,1,apc-PP-2-pl-adj
+"Mit euch Verzweifelten aus Rostock hat der Sprecher ausführlich gesprochen, bevor er die Sitzung schloss.",euch Verzweifelten aus Rostock,1,apc-PP-2-pl-postnom
+"Mit euch Freigeistern vom Land lassen sich die spannendsten Gespräche führen, wenn man etwas Geduld mitbringt.",euch Freigeistern vom Land,1,apc-PP-2-pl-postnom
+"Gegen euch vorsichtige Zauderer mit Wunsch nach hundertprozentiger Sicherheit habe ich persönlich ja gar nichts, eure Vorschläge scheinen mir nur überhaupt nicht zielführend zu sein.",euch vorsichtige Zauderer mit Wunsch nach hundertprozentiger Sicherheit,1,apc-PP-2-pl-adj+postnom
+"Bei euch enthusiastischen Musikliebhabern aus Berlin zeigten die Daten ein interessantes Muster, das weiter untersucht wird.",euch enthusiastischen Musikliebhabern aus Berlin ,1,apc-PP-2-pl-adj+postnom
+Ohne Sie Katzenfreund wäre die Sache für Miezi nicht so glimpflich ausgegangen.,Sie Katzenfreund,1,apc-PP-2Hon-sg-nomod
+"Mit Ihnen Vielreisenden wollte der Sprecher ausführlich sprechen, bevor er die Sitzung schließt.",Ihnen Vielreisenden,1,apc-PP-2Hon-sg-nomod
+"Mit Ihnen faulem Plappermaul wollte niemand das Risiko eingehen, das Projekt allein zu stemmen.",Ihnen faulem Plappermaul,1,apc-PP-2Hon-sg-adj
+"Bei Ihnen schlauer Hilfesuchende wollte niemand das Risiko eingehen, das Projekt allein zu stemmen.",Ihnen schlauer Hilfesuchende,1,apc-PP-2Hon-sg-adj
+Ohne Sie Bedenkenträger wären wir schon fünf Schritte weiter.,Sie Bedenkenträger,1,apc-PP-2Hon-sg-postnom
+Für Sie Beamten auf Lebenszeit scheint dieser Betrag vielleicht nicht viel zu sein.,Sie Beamten auf Lebenszeit,1,apc-PP-2Hon-sg-postnom
+Bei Ihnen wissbegierigen Abonnentinnen dieser Zeitschrift habe ich große Hoffnung auf eine entsprechende Lernbereitschaft.,Ihnen wissbegierigen Abonnentinnen dieser Zeitschrift,1,apc-PP-2Hon-sg-adj+postnom
+Gegen Sie inkompetente Pissbohne gewinne ich allemal!,Sie inkompetente Pissbohne,1,apc-PP-2Hon-sg-adj+postnom
+"In Zusammenarbeit mit Ihnen Umweltaktivisten habe ich erst zu schätzen gelernt, wie fragil unser Ökosystem ist.",Ihnen Umweltaktivisten,1,apc-PP-2Hon-pl-nomod
+"Mit Hilfe von Ihnen Datenanalysten  konnten wir ein interessantes Muster identifizieren, das weiter untersucht wird.",Ihnen Datenanalysten,1,apc-PP-2Hon-pl-nomod
+Für Sie erfahrene App-Entwickler deuteten die Daten auf ein interessantes Muster zur weiteren Untersuchung hin.,Sie erfahrene App-Entwickler,1,apc-PP-2Hon-pl-adj
+Ohne Sie clevere Techies hätten wir das Projekt gar nicht erst anfangen können.,Sie clevere Techies,1,apc-PP-2Hon-pl-adj
+Für Sie Verwaltungsfachangestellte mit Jahren von Berufserfahrung ist das Ganze natürlich ein Kinderspiel.,Sie Verwaltungsfachangestellte mit Jahren von Berufserfahrung,1,apc-PP-2Hon-pl-postnom
+Bei Ihnen Influencern auf den diversen Plattformen gibt es bislang noch erhebliche Unterschiede in der konsistenten Anwendung dieser Regeln.,Ihnen Influencern auf den diversen Plattformen,1,apc-PP-2Hon-pl-postnom
+Gegen Sie betrügerische Abzocker von den Scammingseiten haben wir leider noch keine belastbaren Beweise.,Sie betrügerische Abzocker von den Scammingseiten,1,apc-PP-2Hon-pl-adj+postnom
+"Durch Sie einfühlsame Kolleginnen und Kollegen aus Abteilung 8 habe ich endlich erfahren, dass Arbeit auch Spaß machen kann.",Sie einfühlsame Kolleginnen und Kollegen aus Abteilung 8,1,apc-PP-2Hon-pl-adj+postnom
+"Ich Trampel, jetzt habe ich die Vase kaputt gemacht!",ich Trampel,1,apc-external-1-sg-nomod
+"Nun habe ich die Beziehung zerstört, ich Dummkopf!",ich Dummkopf,1,apc-external-1-sg-nomod
+"Ich dumme Tröte, ich habe vergessen Tomaten zu kaufen.",ich dumme Tröte,1,apc-external-1-sg-adj
+"Das hatte ich so noch nicht erlebt, ich tapferer Suchender.",ich tapferer Suchender,1,apc-external-1-sg-adj
+"Ich Angeklagter vom Land, ich hatte hier in der Stadt während dem Verfahren nochmal einen besonders schweren Stand.",ich Angeklagter vom Land,1,apc-external-1-sg-postnom
+"Mich habt ihr alle unterschätzt, mich Memme aus der Großstadt.",mich Memme aus der Großstadt,1,apc-external-1-sg-postnom
+"Mit dieser entschiedenen Äußerung überraschte ich alle, ich naiver Idealist der alten Zeit.",ich naiver Idealist der alten Zeit,1,apc-external-1-sg-adj+postnom
+"So etwas hatte ich noch nie erlebt, ich erfolgsverwöhnter Machtmensch aus der Hauptstadt!",ich erfolgsverwöhnter Machtmensch aus der Hauptstadt,1,apc-external-1-sg-adj+postnom
+"Darüber waren wir natürlich besonders glücklich, wir Freigeister.",wir Freigeister,1,apc-external-1-pl-nomod
+"Solche Komplikationen sind für uns unerträglich, uns Zauderer!",uns Zauderer,1,apc-external-1-pl-nomod
+"Wir müden Musikliebhaber, wir haben ein entbehrungsreiches Jahrzehnt hinter uns.",Wir müden Musikliebhaber,1,apc-external-1-pl-adj
+"Durch diese Aktion haben wir uns nicht viele Freunde gemacht, wir tapferen Katzenfreunde.",wir tapferen Katzenfreunden,1,apc-external-1-pl-adj
+"Wir Reisenden aus Rostock, wir sind ja nun wirklich einiges gewohnt!",wir Reisenden aus Rostock,1,apc-external-1-pl-postnom
+"Jetzt fragt man uns plötzlich nach Hilfe, uns Sprachkundige aus der Region.",uns Sprachkundige aus der Region,1,apc-external-1-pl-postnom
+"Wir schlauen Hilfesuchenden aus Rostock, wir haben eine wichtige Beobachtung gemacht.",wir schlauen Hilfesuchenden aus Rostock,1,apc-external-1-pl-adj+postnom
+"Das Ergebnis überraschte uns sehr, uns besorgte Zweifler an der Notwendigkeit der Reform.",uns besorgte Zweifler an der Notwendigkeit der Reform,1,apc-external-1-pl-adj+postnom
+"Du Aufgeschlossene, das hast du wirklich gut gesagt!",du Aufgeschlossene,1,apc-external-2-sg-nomod
+"Das hast du richtig beobachtet, du Lesebegeisterter.",du Lesebegeisterter,1,apc-external-2-sg-nomod
+"Du ehrlicher Makler, du hast da einen ganz schön cleveren Plan.",du ehrlicher Neugieriger,1,apc-external-2-sg-adj
+"Du müder Umweltaktivist, ihr habt euch wirklich angestrengt.",du müder Umweltaktivist,1,apc-external-2-sg-adj
+"Das Ergebnis hat tatsächlich alle überrascht, du Zweifler vor dem Herrn.",du Zweifler vor dem Herrn,1,apc-external-2-sg-postnom
+"Du musst dir einen guten Plan ausdenken, du Genie aus Luzern.",du Genie aus Luzern,1,apc-external-2-sg-postnom
+"Über dieses Thema hatten wir doch noch gar nicht gesprochen, du voreiliger Quälgeist meiner alten Tage.",du voreiliger Quälgeist meiner alten Tage,1,apc-external-2-sg-adj+postnom
+"Du müder Organisator der Ortsgruppe Leipzig, du hast dich wirklich verausgabt!",du müder Organisator der Ortsgruppe Leipzig,1,apc-external-2-sg-adj+postnom
+"Ihr habt euch wirklich angestrengt, ihr Influencer.",ihr Influencer,1,apc-external-2-pl-nomod
+"Ihr Arschlöcher, so eine Unverschämtheit habe ich noch nie erlebt!",ihr Arschlöcher,1,apc-external-2-pl-nomod
+"Ihr lieben Helfer*innen, ihr habt euch wirklich angestrengt.",ihr lieben Helfer*innen,1,apc-external-2-pl-adj
+"Mit dieser Sache habt ihr euch wohl übernommen, ihr gestressten Manager.",ihr gestressten Manager,1,apc-external-2-pl-adj
+"Für euch ist dieses Thema wohl ein Witz, ihr Ignoranten hoch zehn!",ihr Ignoranten hoch zehn,1,apc-external-2-pl-postnom
+"Ihr Hundebesitzer wider Willen, ihr wisst, wovon ich rede!",Ihr Hundebesitzer wider Willen,1,apc-external-2-pl-postnom
+"Zeigt euch, ihr erhabenen Diener der mythischen Kraft!",ihr erhabenen Diener der mythischen Kraft,1,apc-external-2-pl-adj+postnom
+"Eure Dreistigkeit hat alle Beteiligten überrascht, ihr gewiefte Angeklagte aus Berlin.",ihr fleißige Angeklagter aus Berlin,1,apc-external-2-pl-adj+postnom
+"Sie haben sich wirklich angestrengt, Sie Aufmerksamer.",Sie Aufmerksamer,1,apc-external-2Hon-sg-nomod
+"Sie Radaubruder, sowas habe ich ja noch nie erlebt!",Sie Radaubruder,1,apc-external-2Hon-sg-nomod
+"Dieses Ergebnis überraschte tatsächlich alle, Sie ehrlich Verzweifelter.",Sie ehrlich Verzweifelter,1,apc-external-2Hon-sg-adj
+"Mit diesem Ausgang hätte Sie aber rechnen können, Sie naiver Freigeist.",Sie naiver Freigeist,1,apc-external-2Hon-sg-adj
+"Vor Ihnen habe ich doch keinen Respekt, Sie Quasselfritze aus Pankow.",Sie Quasselfritze aus Pankow,1,apc-external-2Hon-sg-postnom
+"Manche Leute möchten nachts auch schlafen, Sie Musikliebhaber aus der Nachbarschaft.",Sie Musikliebhaber aus der Nachbarschaft,1,apc-external-2Hon-sg-postnom
+"Sie naiver Katzenfreund in Ihrem Bunker, daran muss man doch denken, dass sich die Viecher auch vermehren!",Sie naiver Katzenfreund in Ihrem Bunker,1,apc-external-2Hon-sg-adj+postnom
+"Sie tapferer Reisender aus Berlin, dass Sie es da bis hierher geschafft haben!",Sie tapferer Reisender aus Berlin,1,apc-external-2Hon-sg-adj+postnom
+"Für Sie stellt das natürlich keine Schwierigkeit dar, Sie Sprachkundige.",Sie Sprachkundige,1,apc-external-2Hon-pl-nomod
+"Ich fürchte, dafür müssen Sie den Amtsweg gehen, Sie Hilfsbedürftige.",Sie Hilfsbedürftige,1,apc-external-2Hon-pl-nomod
+"Nach all dieser Aufregung sollten Sie sich erstmal ausruhen, Sie edle Helferinnen und Helfer.",Sie edle Helferinnen und Helfer,1,apc-external-2Hon-pl-adj
+"Den Hof haben Sie wunderbar gestaltet, Sie fantasievolle Künstlerinnen!",Sie fantasievolle Künstlerinnen,1,apc-external-2Hon-pl-adj
+"Sie Bücherwürmer aus Westberlin, das ist ja beeindruckend!",Sie Bücherwürner aus Westberlin,1,apc-external-2Hon-pl-postnom
+"Sie Agitatoren aus dem kapitalistischen Ausland, Ihnen werden wir schon noch das Handwerk legen.",Sie Agitatoren aus dem kapitalistischen Ausland,1,apc-external-2Hon-pl-postnom
+"Sie tapfere Umweltaktivisten aus der Region, seien Sie gewiss, dass wir alle hinter Ihnen stehen.",Sie tapfere Umweltaktivisten aus der Region,1,apc-external-2Hon-pl-adj+postnom
+"Den guten Ausgang haben wir allein Ihnen zu verdanken, Sie sorgfältige Analysten der inkriminierenden Firmendaten.",Sie sorgfältige Analysten der inkriminierenden Firmendaten,1,apc-external-2Hon-pl-adj+postnom
+"Ich wunderte mich, warum man uns Verbrecher nannte, obwohl wir uns nichts hatten zu Schulden kommen lassen.",uns Verbrecher,0,noapc
+"Du hast gestern mit dem Lehrer gesprochen, der immer sehr hilfsbereit ist.",,0,noapc
+"Das haben mir Nachbarn erzählt, die ich vorhin getrofffen habe.",mir Nachbarn,0,noapc
+"Sie erzählte von der Reise, die sie vor zwei Jahren unternommen hatte, und zeigte Fotos.",,0,noapc
+"Er hat mit seiner Schwester telefoniert, bevor er die Entscheidung bekanntgab.",,0,noapc
+"Ich dachte daran, wie gern wir Menschen geholfen hatten, und wurde nostalgisch.",wir Menschen,0,noapc
+"Du hast deinen Rucksack verloren, aber eine freundliche Frau gab ihn dir zurück.",,0,noapc
+"Wir mussten warten, bis der Bus kam, doch danach ging alles schnell.",,0,noapc
+"Sie baten uns Fische mitzubringen, damit es möglichst vielfältige Gerichte beim Festessen gäbe.",uns Fische,0,noapc
+"Ich hörte dem Vortrag aufmerksam zu, weil das Thema für mein Projekt wichtig ist.",,0,noapc
+"Wir planten das Fest, das am Ende des Monats stattfinden soll, trotz des engen Budgets.",,0,noapc
+"Du schliefst während des Films ein, aber am Ende hast du alles gespannt verfolgt.",,0,noapc
+"Er nimmt an dem Seminar teil, das viele interessante Gäste eingeladen hat.",,0,noapc
+"Ich schrieb den Bericht, den die Abteilung angefordert hatte, und reichte ihn ein.",,0,noapc
+"Wir entschieden uns, die Angelegenheit intern zu klären, bevor wir externe Hilfe suchten.",,0,noapc
+"Sie rückte die Möbel um, nachdem sie die neue Einrichtung bestellt hatte.",,0,noapc
+"Du hast das Angebot angenommen, das dir letzte Woche unterbreitet wurde, und bereits mit der Arbeit begonnen.",,0,noapc
+"Wir sahen die Dokumentation, die das Thema aus verschiedenen Perspektiven beleuchtete.",,0,noapc
+"Ich fand das Buch, das ich seit Monaten gesucht hatte, in einem kleinen Antiquariat.",,0,noapc
+"Er erklärte die Regeln, sodass jeder verstand, worum es ging, und niemand verwirrt war.",,0,noapc
+"Wir sprachen lange über die Strategie, die wir in den kommenden Monaten verfolgen wollen.",,0,noapc
+"Du bekommst die Unterlagen morgen, sobald die Kollegen das Protokoll fertiggestellt haben.",,0,noapc
+"Sie verließ das Haus früh, weil sie einen wichtigen Termin wahrnehmen musste und nicht zu spät kommen wollte.",,0,noapc
+"Ich erinnerte mich plötzlich an den Namen des Autors, den ich gesucht hatte.",,0,noapc
+"Wir aßen gemeinsam, lachten viel und beschlossen, uns häufiger zu treffen.",,0,noapc
+"Er zeigte uns Karten, die die alte Route detailliert beschrieben, und wir planten entsprechend.",,0,noapc
+"Du solltest den Bericht überarbeiten, bevor du ihn einreichst, denn einige Details fehlen noch.",,0,noapc
+"Wir hörten die Musik, die aus dem Nachbarhaus kam, und freuten uns über die Stimmung.",,0,noapc
+"Sie wünschte sich, dass die Veranstaltung ohne Zwischenfälle verlaufen würde, und arbeitete hart daran.",,0,noapc
+"Ich überprüfte die Liste, bevor ich sie weiterleitete, um Fehler zu vermeiden.",,0,noapc
+"Wir beendeten die Besprechung, nachdem alle Punkte abgehandelt waren, und gingen nach Hause.",,0,noapc
+"Du hast dich verändert, seit wir uns das letzte Mal gesehen haben, und das ist gut.",,0,noapc
+"Sie planten eine Woche Urlaub, um sich von der Arbeit zu erholen und neue Energie zu tanken.",,0,noapc
+"Ich bot meine Hilfe an, weil ich die Erfahrung hatte und gern unterstützen wollte.",,0,noapc
+"Wir beobachteten die Vögel, die am frühen Morgen über dem See flogen.",,0,noapc
+"Du erinnerst dich sicher an den Ort, an dem alles begonnen hat, und kannst es beschreiben.",,0,noapc
+"Sie sammelte die Informationen, die für die Entscheidung relevant waren, und präsentierte die Ergebnisse.",,0,noapc
+"Ich machte mir Notizen, während der Redner sprach, um nichts Wichtiges zu vergessen.",,0,noapc
+"Wir diskutierten die Optionen, die uns offenstanden, und fanden schließlich einen Kompromiss.",,0,noapc
+"Du hast die Aufgabe gut gelöst, obwohl die Anforderungen hoch waren und wenig Zeit blieb.",,0,noapc
+"Sie trug das Kleid, das ihr am besten stand, und erhielt viele Komplimente.",,0,noapc
+"Ich überlegte lange, bevor ich die Antwort gab, weil die Frage komplex war.",,0,noapc
+"Wir planten die nächste Sitzung, bei der wir die Ergebnisse vorstellen wollen.",,0,noapc
+"Du solltest dich ausruhen, nachdem du so viel gearbeitet hast, sagte der Arzt.",,0,noapc
+"Sie arrangierte die Treffen, damit alle Beteiligten teilnehmen konnten und niemand ausgeschlossen war.",,0,noapc
